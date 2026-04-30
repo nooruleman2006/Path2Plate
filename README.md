@@ -31,6 +31,15 @@ Code
 Open the project in your IDE (IntelliJ / Eclipse / VS Code)
 Make sure JavaFX is configured in your project settings
 Run the Main.java file
+
+
 👨‍💻 Author
-Noor Uleman
-GitHub: @nooruleman2006
+Noor Ul Eman
+GitHub: @nooruleman2006oct
+
+
+
+
+
+
+
