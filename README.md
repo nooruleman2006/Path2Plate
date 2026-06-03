@@ -22,6 +22,40 @@ Place and manage food orders
 Shortest path delivery routing using graph algorithms
 Order queue management
 Menu sorting and search functionality
+## 📸 Screenshots
+
+### 🏠 Homepage
+<p align="center">
+  <img src="screenshots/homepage.jpg" alt="Homepage" width="700"/>
+</p>
+
+### 🍽️ Browse & Search Restaurants
+<p align="center">
+  <img src="screenshots/Browse_Menu.jpg" alt="Browse Menu" width="700"/>
+  <img src="screenshots/Available_Restaurants.jpg" alt="Available Restaurants" width="700"/>
+  <img src="screenshots/Search_Restaurants.jpg" alt="Search Restaurants" width="700"/>
+</p>
+
+### 🛒 Cart & Orders
+<p align="center">
+  <img src="screenshots/Add.jpg" alt="Add Item" width="700"/>
+  <img src="screenshots/Add_To_Cart.jpg" alt="Add to Cart" width="700"/>
+  <img src="screenshots/My_Cart.jpg" alt="My Cart" width="700"/>
+  <img src="screenshots/Apply_Filters.jpg" alt="Apply Filters" width="700"/>
+</p>
+
+### 📦 Order Management
+<p align="center">
+  <img src="screenshots/Place_Orders.jpg" alt="Place Orders" width="700"/>
+  <img src="screenshots/Order_Queue.jpg" alt="Order Queue" width="700"/>
+  <img src="screenshots/Order_Queue2.jpg" alt="Order Queue 2" width="700"/>
+  <img src="screenshots/CheckOut.jpg" alt="Checkout" width="700"/>
+</p>
+
+### 🚴 Delivery
+<p align="center">
+  <img src="screenshots/Delivery_Route.jpg" alt="Delivery Route" width="700"/>
+</p>
 
 🚀 How to Run
 Make sure you have Java JDK 11+ and JavaFX SDK installed
